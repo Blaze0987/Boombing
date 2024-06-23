@@ -6,9 +6,9 @@ cd $HOME
 
 rm -rf BOMBING
 
-git clone https://github.com/ALONE-272/BOMBING.git
+git clone https://github.com/ALONE-272/LUXURY-BOMB.git
 
-cd BOOMBING
+cd LUXURY-BOMB
 
 chmod 777 *
 
