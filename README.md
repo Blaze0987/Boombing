@@ -6,7 +6,7 @@ cd $HOME
 
 rm -rf BOMBING
 
-git clone https://github.com/AHMED-143/BOMBING.git
+git clone https://github.com/ALONE-272/BOMBING.git
 
 cd BOOMBING
 
