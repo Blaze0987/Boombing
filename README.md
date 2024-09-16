@@ -6,7 +6,7 @@ cd $HOME
 
 rm -rf BOMBING
 
-git clone https://github.com/ALONE-272/LUXURY-BOMB.git
+git clone https://github.com/PRIME-404/LUXURY-BOMB.git
 
 cd LUXURY-BOMB
 
